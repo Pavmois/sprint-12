@@ -1,4 +1,5 @@
 # sprint-12
+version 1.0
 
 Серверная разработка на Node.js и введение в express.js
 
