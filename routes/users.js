@@ -1,0 +1,1 @@
+module.exports.users = require('../data/users.json');

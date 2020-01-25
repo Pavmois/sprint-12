@@ -1,0 +1,24 @@
+.button {
+  background-color: transparent;
+  border: 1px solid white;
+  color: white;
+  display: block;
+  cursor: pointer;
+}
+
+.button:focus {
+  outline-color: greenyellow;
+}
+
+.user-info__edit:hover {
+  background-color: white;
+  color: black;
+  border-radius: 4px;
+  
+}
+
+.user-info__edit:active {
+  background-color: rgb(86, 86, 255);
+  color: black;
+  
+}

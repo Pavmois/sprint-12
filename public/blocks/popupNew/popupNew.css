@@ -1,0 +1,20 @@
+@import url(./__content/popupNew__content.css);
+@import url(./__close/popupNew__close.css);
+@import url(./__title/popupNew__title.css);
+@import url(./__form/popupNew__form.css);
+@import url(./__input/popupNew__input.css);
+@import url(./__button/popupNew__button.css);
+@import url(./_is-opened/popupNew_is-opened.css);
+
+.popupNew {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, .5);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  display: none;
+}

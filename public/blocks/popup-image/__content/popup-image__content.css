@@ -1,0 +1,19 @@
+@import url(../__close/popup-image__close.css);
+@import url(../__image/popup-image__image.css);
+
+
+.popup-image__content {
+  max-width: 80vw;
+  max-height: 80vh;
+    border-radius: 10px;
+    position: relative;
+    max-width: 60vw;
+    max-height: 80vh;
+    
+  }
+  
+  @media screen and (max-width: 540px) {
+    .popup-image__content {
+      width: calc(100% - 60px);
+    }
+  }
