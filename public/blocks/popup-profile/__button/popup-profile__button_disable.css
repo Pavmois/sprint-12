@@ -1,0 +1,5 @@
+.popup-profile__button_disable {
+    background-color: white;
+    color: rgb(201, 201, 201);
+    cursor: default;
+}
