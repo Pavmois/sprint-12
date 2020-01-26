@@ -1,7 +1,7 @@
 {
   "name": "sprint-12",
   "version": "1.0.0",
-  "description": "",
+  "description": "Server development on Node.js and an introduction to express.js",
   "main": "app.js",
   "scripts": {
     "start": "node app.js",
@@ -10,6 +10,8 @@
   "author": "PaulMois",
   "license": "ISC",
   "dependencies": {
+    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-plugin-import": "^2.20.0",
     "express": "^4.17.1"
   },
   "devDependencies": {
